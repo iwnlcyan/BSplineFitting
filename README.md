@@ -1,3 +1,6 @@
+Based on the original repository implemented B-spline curve fitting in Python. 
+Input a binary sketch image, run FitOpenCurve() for open B-spline curve fitting and FitClosedCurve for closed B-spline curve fitting.
+
 BSplineFitting
 ==============
 
